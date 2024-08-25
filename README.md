@@ -23,3 +23,11 @@ Esta aplicação web fornece informações sobre o clima atual de uma cidade. Ut
    - Temperatura acima de 25°C: Imagem de sol.
    - Temperatura entre 15°C e 25°C: Imagem de nuvens.
    - Temperatura abaixo de 15°C: Imagem de neve.
+  
+## Informações do Criador
+
+- **Criador**: Victor Brasileiro
+- **Email**: [dev.victorbrasileiroo@gmail.com](mailto:dev.victorbrasileiroo@gmail.com)
+- **LinkedIn**: [Victor Brasileiro](https://www.linkedin.com/in/victorbrasileirooo)
+
+**Observação**: Este projeto é desenvolvido exclusivamente para fins educacionais. Todos os direitos da API OpenWeatherMap pertencem à sua criadora.
