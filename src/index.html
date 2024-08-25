@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clima de uma Cidade</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="container_text_input">
+            <h1>Clima Atual</h1>
+            <input type="text" id="city_name" placeholder="Digite o nome da cidade" class="mt-4">
+            <button id="get_weather" class="mt-3">Obter Clima</button>
+        </div>
+        <div class="hr"></div>
+        <div class="container_text_output">
+            <h1 class="NomedaCidade"></h1>
+            <img class="img_clima" src="" alt="Weather Image">
+            <p id="weather_info"></p>
+        </div>
+    </div>
+
+
+    <!-- Importando o Axios via CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
