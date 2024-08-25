@@ -3,5 +3,5 @@ Esta aplicação web permite a verificação das condições climáticas atuais.
 
 <img src="src/img/image.png" alt="">
 
-## Clique aqui para visitar o projeto ❗ <a href="https://victorbrasileiroo.github.io/WeatherWatch/">Demo</a>
+## Clique aqui para visitar o projeto 👉🏻 <a href="https://victorbrasileiroo.github.io/WeatherWatch/">Demo</a>
 
