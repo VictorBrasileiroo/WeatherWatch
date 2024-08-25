@@ -30,4 +30,5 @@ Esta aplicação web fornece informações sobre o clima atual de uma cidade. Ut
 - **Email**: [dev.victorbrasileiroo@gmail.com](mailto:dev.victorbrasileiroo@gmail.com)
 - **LinkedIn**: [Victor Brasileiro](https://www.linkedin.com/in/victorbrasileirooo)
 
+##
 **Observação**: Este projeto é desenvolvido exclusivamente para fins educacionais. Todos os direitos da API OpenWeatherMap pertencem à sua criadora.
