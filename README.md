@@ -10,7 +10,7 @@ Esta aplicação web fornece informações sobre o clima atual de uma cidade. Ut
 ## Tecnologias Utilizadas
 
 - **HTML**: Estrutura da página web.
-- **CSS**: Estilização da interface.
+- **CSS e SASS**: Estilização da interface.
 - **JavaScript**: Lógica de programação e interação com a API.
 - **Axios**: Biblioteca para realizar requisições HTTP.
 
