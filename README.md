@@ -1,7 +1,25 @@
 # WeatherWatch
-Esta aplicação web permite a verificação das condições climáticas atuais. O projeto é um estudo focado em diversos conceitos e tecnologias, incluindo APIs, HTTP, requisições, promises, AJAX e Axios, entre outros. Desenvolvido exclusivamente para fins educativos, visa proporcionar uma compreensão prática e aplicada dessas ferramentas e técnicas.
 
+## Aplicação Web para Verificação do Clima
+
+Esta aplicação web fornece informações sobre o clima atual de uma cidade. Utiliza a API do OpenWeatherMap para obter dados climáticos e exibi-los em uma interface web. O projeto é uma oportunidade para explorar conceitos relacionados a APIs, HTTP, requisições, promises, AJAX e Axios.
 <img src="src/img/image.png" alt="">
 
 ## Clique aqui para visitar o projeto 👉🏻 <a href="https://victorbrasileiroo.github.io/WeatherWatch/">Demo</a>
 
+## Tecnologias Utilizadas
+
+- **HTML**: Estrutura da página web.
+- **CSS**: Estilização da interface.
+- **JavaScript**: Lógica de programação e interação com a API.
+- **Axios**: Biblioteca para realizar requisições HTTP.
+
+## Funcionalidades
+
+1. **Entrada de Cidade**: Permite ao usuário inserir o nome de uma cidade.
+2. **Botão de Consulta**: Aciona a busca das informações climáticas para a cidade fornecida.
+3. **Exibição de Dados**: Mostra a temperatura, a umidade e a descrição do clima.
+4. **Imagens de Clima**: Atualiza a imagem com base na temperatura:
+   - Temperatura acima de 25°C: Imagem de sol.
+   - Temperatura entre 15°C e 25°C: Imagem de nuvens.
+   - Temperatura abaixo de 15°C: Imagem de neve.
