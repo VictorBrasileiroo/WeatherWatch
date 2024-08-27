@@ -18,7 +18,7 @@ btn.addEventListener('click', () => {
 
             // Atualiza informações da API
             let data = response.data;
-            outputWeather.innerHTML = `Temperatura: ${data.main.temp}°C / Humidade: ${data.main.humidity}% / Clima: ${data.weather[0].description}`;
+            outputWeather.innerHTML = `Temperatura: ${data.main.temp}°C / Umidade: ${data.main.humidity}% / Clima: ${data.weather[0].description}`;
             outputName.innerHTML = data.name;
 
             // Atualiza imagem de acordo com a temperatura
